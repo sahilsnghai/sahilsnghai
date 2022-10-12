@@ -1,4 +1,6 @@
-[![MasterHead](https://www.icegif.com/wp-content/uploads/icegif-6438.gif)](https://sahilsnghai.io)
+<!--[![MasterHead](https://c4.wallpaperflare.com/wallpaper/456/996/977/funny-coding-humor-technics-wallpaper-preview.jpg)](https://sahilsnghai.io)-->
+![logo](https://c4.wallpaperflare.com/wallpaper/456/996/977/funny-coding-humor-technics-wallpaper-preview.jpg)
+
 <!-- <img align="right" alt="Coding" width="400" height="300" src="(https://www.icegif.com/wp-content/uploads/icegif-6438.gif)">(https://sahilsnghai.io) -->
 <h1 align="center">Hi 🍔👀, I'm Sahil Singhai</h1>
 <h3 align="center">Aspiring to work for an organisation that will provide me with a responsible job where I can use my skills and abilities to carve out a niche for myself and effectively contribute to the organization's goals while also enhancing my growth through continuous learning.</h3>
