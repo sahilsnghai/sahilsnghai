@@ -3,9 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsnghai&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsnghai" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://sahilsnghai-portfolio.onrender.com/](https://sahilsnghai-portfolio.onrender.com/)
+- Hi, I'm Sahil Singhai **Worked as a Python Developer at Netlink ICT Pvt Ltd for 3 months, collaborating with team members on APIs, frameworks, Spark, Hadoop, Alexa skills, Snowflake, Vertica, and Greenplum.**
+
+- 🎗My Favorite project is **https://bondly.pythonanywhere.com/**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sahilsnghai/sahilsnghai](https://github.com/sahilsnghai/sahilsnghai)
+
+- 🚂 About me **Skilled in Python web development with Flask/Django, RESTful API building and consumption, database integration with SQLAlchemy/Django ORM, and deployment on Heroku/AWS. Proficient in Git, web security, and scalability best practices**
 
 - 📫 How to reach me **Sahilsinghai5672@gmail.com**
+
+- 📁 Portfolio Link [https://sahilsnghai-portfolio.onrender.com/](https://sahilsnghai-portfolio.onrender.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
