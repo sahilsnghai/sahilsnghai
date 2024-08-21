@@ -8,7 +8,7 @@
 
 - 🎗My Favorite project is **https://bondly.pythonanywhere.com/**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sahilsnghai/sahilsnghai](https://github.com/sahilsnghai/sahilsnghai)
+- 👨‍💻 All of my projects are available at [https://github.com/sahilsnghai](https://github.com/sahilsnghai)
 
 - 🚂 About me **Skilled in Python web development with Flask/Django, RESTful API building and consumption, database integration with SQLAlchemy/Django ORM, and deployment on Heroku/AWS. Proficient in Git, web security, and scalability best practices**
 
