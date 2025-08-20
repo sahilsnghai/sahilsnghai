@@ -16,11 +16,11 @@
   - [ChartCraft](https://github.com/sahilsnghai/chartcraft) – FastAPI + Highcharts dynamic chart builder.  
   - [Golang Projects](https://github.com/sahilsnghai/golang) – REST APIs, gRPC services, and backend utilities in Go.  
 
-- 🚂 About me: **Skilled in Python, Go, RESTful APIs, databases (MySQL/PostgreSQL/MongoDB/ElasticSearch), and cloud deployment (Heroku/AWS/Docker/Kubernetes).**  
+- 🚂 About me: **Skilled in Python, Go, RESTful APIs, databases (MySQL/PostgreSQL), and cloud deployment (AWS/Docker/Kubernetes).**  
 
 - 📁 Portfolio: [https://sahilsnghai-portfolio.onrender.com/](https://sahilsnghai-portfolio.onrender.com/)  
 
-- 📫 Reach me at **sahilsnghai01@gmail.com**  
+- 📫 Reach me at **sahilsnghai5672@gmail.com**  
 
 ---
 
