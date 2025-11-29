@@ -34,8 +34,6 @@ Here are some representative projects from my repositories.
 - resume_parser – A **resume parsing backend** that extracts key candidate information for HR/ATS-style workflows; built to be extended with custom NLP/LLM logic.[attached_file:1]  
 - ChatBotAI – A **chatbot backend** experimenting with LLM integration, conversational flows, and API-first design.[attached_file:1]  
 
-(Feel free to adjust repo names/descriptions to exactly match your actual GitHub projects.)
-
 ---
 
 ## 🧩 What I enjoy working on
