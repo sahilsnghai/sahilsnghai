@@ -1,61 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sahil Singhai Jain</h1>
-<h3 align="center">Exploring the intersection of Backend Engineering & Generative AI</h3>
+# Hi 👋, I'm Sahil Singhai Jain
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsnghai&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsnghai" /> </p>
+### Backend Engineer building GenAI-powered systems
 
-- 👨‍💻 I’m a **Python Backend Developer** with 2.8 years of experience, currently working at **Netlink Software Group America**.  
-
-- ⚡ Skilled in **Django, FastAPI, Flask, Falcon** for building scalable APIs, and proficient in **LangChain & LangGraph** for GenAI solutions.  
-
-- 🎯 Worked on projects involving **RAG pipelines, AI translators, backend services, and Golang microservices**.  
-
-- 🎗 Some of my favorite projects:  
-  - [Bondly](https://bondly.pythonanywhere.com/) – A Django-based social platform.  
-  - [Translator](https://github.com/sahilsnghai/Translator) – Built with LangChain & LangGraph to translate any language to **Nagamese**.  
-  - [RAG Backend](https://github.com/sahilsnghai/RAG_backend) – RAG-powered GenAI backend with LangChain + vector DBs.  
-  - [ChartCraft](https://github.com/sahilsnghai/chartcraft) – FastAPI + Highcharts dynamic chart builder.  
-  - [Golang Projects](https://github.com/sahilsnghai/golang) – REST APIs, gRPC services, and backend utilities in Go.  
-
-- 🚂 About me: **Skilled in Python, Go, RESTful APIs, databases (MySQL/PostgreSQL), and cloud deployment (AWS/Docker/Kubernetes).**  
-
-- 📁 Portfolio: [https://sahilsnghai-portfolio.onrender.com/](https://sahilsnghai-portfolio.onrender.com/)  
-
-- 📫 Reach me at **sahilsnghai5672@gmail.com**  
+- 👨‍💻 Python Backend Developer with 2.8+ years of experience, currently at **Netlink Software Group America**.[attached_file:1]  
+- ⚙️ Focused on **high-performance APIs**, **GenAI applications**, and **data-driven backends**.[attached_file:1]  
+- 🧠 Hands-on with **RAG pipelines, AI translators, LangChain, LangGraph, and vector DBs** for production GenAI workloads.[attached_file:1]  
+- 🚀 Comfortable across **Django, FastAPI, Flask, Falcon**, and **microservice architectures** with **Docker + Kubernetes** on **AWS**.[attached_file:1]  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sahil_singhai1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahil_singhai1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahilsinghai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilsinghai" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sahilsinghai56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sahilsinghai56" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sahilsinghai5672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sahilsinghai5672" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahil_singhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_singhai" height="30" width="40" /></a>
-</p>
+## 🛠 Tech stack
+
+- Languages: **Python, Go, JavaScript/TypeScript**[attached_file:1]  
+- Backend: **Django, FastAPI, Flask, Falcon**  
+- GenAI / LLM: **LangChain, LangGraph**, RAG, vector databases (**Qdrant, Milvus** or similar)  
+- Databases: **PostgreSQL, MySQL**  
+- Infra & DevOps: **Docker, Kubernetes, AWS**  
+- Other: RESTful APIs, gRPC, CI/CD, observability, testing
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
-</p>
+## 🔧 Highlighted projects
+
+Here are some representative projects from my repositories.  
+(You can turn these into links by wrapping the repo name with `[name](url)`.)
+
+- Bondly – A **Django-based social platform** showcasing clean architecture, reusable apps, and production-ready auth/feed flows.[attached_file:1]  
+- Translator – **LangChain + LangGraph-powered AI translator** that converts any language to **Nagamese**, with a modular RAG-style pipeline and tool-calling oriented design.[attached_file:1]  
+- RAG Backend – **GenAI backend service** built with Python, LangChain, and vector DBs, exposing REST APIs for document ingestion, retrieval, and chat-style querying.[attached_file:1]  
+- ChartCraft – **FastAPI + Highcharts** backend that accepts user-defined payloads and returns dynamic chart configurations, designed for analytics dashboards and BI-style integrations.[attached_file:1]  
+- Golang microservices – A set of **Go-based REST and gRPC services** and utilities that explore microservice patterns, structured logging, and container-first design.[attached_file:1]  
+- fastapi-tyre-classification – A **FastAPI service for ML classification** (tyre-related use case) that wraps a trained model behind clean, documented endpoints.[attached_file:1]  
+- resume_parser – A **resume parsing backend** that extracts key candidate information for HR/ATS-style workflows; built to be extended with custom NLP/LLM logic.[attached_file:1]  
+- ChatBotAI – A **chatbot backend** experimenting with LLM integration, conversational flows, and API-first design.[attached_file:1]  
+
+(Feel free to adjust repo names/descriptions to exactly match your actual GitHub projects.)
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilsnghai&show_icons=true&locale=en&layout=compact" alt="sahilsnghai" /></p>
+## 🧩 What I enjoy working on
+
+- Designing **API-first backends** that are easy to scale, observe, and maintain.  
+- Building **GenAI / RAG systems** that combine LLMs with vector search, graph-style retrieval, and robust tool/use-case orchestration.  
+- Experimenting with **system design**, **event-driven architectures**, and **data-intensive applications**.
+
+---
+
+## 📫 Contact & links
+
+- Portfolio: https://sahilsnghai-portfolio.onrender.com/[attached_file:1]  
+- LinkedIn: https://www.linkedin.com/in/sahilsinghai[attached_file:1]  
+- Email: **sahilsnghai5672@gmail.com**[attached_file:1]  
+
+If you want, you can send the exact list of repo names (or a screenshot / copy-paste from your Repositories tab), and a short line on what each does, and a tailored section can be written for every important repo individually.
