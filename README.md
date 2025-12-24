@@ -73,18 +73,6 @@
   </a>
 </p>
 <br />
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilsnghai&show_icons=true&locale=en&layout=compact"
-    alt="sahilsnghai"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sahilsnghai" alt="sahilsnghai" />
-  </a>
-</p>
-
 
 
 ## 📫 Contact & links
