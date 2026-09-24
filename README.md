@@ -77,7 +77,7 @@
 
 ## 📫 Contact & links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blue?style=for-the-badge&logo=react&logoColor=white)](https://sahilsnghai-portfolio.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blue?style=for-the-badge&logo=react&logoColor=white)](https://sahilsinghai.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilsinghai)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilsinghai5672@gmail.com)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sahilsnghai&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsnghai" /></p>
