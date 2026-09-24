@@ -1,4 +1,4 @@
-# Sahil Singhai Jain — GitHub Portfolio
+# Sahil Singhai Jain
 
 **GenAI Backend Engineer | Python & Golang Specialist | Microservices & Agentic AI Architect**
 
