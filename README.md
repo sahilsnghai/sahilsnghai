@@ -1,8 +1,40 @@
 # Sahil Singhai Jain
 
-**GenAI Backend Engineer | Python & Golang Specialist | Microservices & Agentic AI Architect**
+**GenAI Backend Engineer | Python & Golang | RAG, Agentic AI & MCP | IIoT Cloud & Edge**
 
-Live portfolio and open-source work by Sahil Singhai Jain — building GenAI systems, distributed pipelines, and developer tools.
+I'm a backend engineer with 3.5 years of experience in Python and Go, building production GenAI systems: RAG pipelines, LLM-powered APIs, agentic workflows and MCP servers. I built the GenAI layer behind a BI product's natural-language analytics feature, and an MCP server that exposes it to LLMs. Right now I'm building distributed IIoT pipelines and edge provisioning for 50+ edge instances on AWS at **Capgemini**, and co-building **[FixPoint Drive](https://fixpoint.co.in)**, a vehicle-services platform for India.
+
+📍 Noida, India · Open to remote work and relocation
+
+---
+
+## Experience
+
+**Associate Consultant — Capgemini** *(Jan 2026 – Present, Noida)*
+- End-to-end IIoT data pipelines (PLC → OPC-UA → Edge → UNS → AWS Cloud), **30%+ faster** data processing.
+- Dynamic orchestration platform that coordinates 10+ services, with user-defined workflows and real-time OPC-UA data enrichment.
+- Edge Application Management platform for deploying, configuring and managing the lifecycle of **50+ edge instances**.
+- Queue-based edge provisioning with one-click gateway cluster deployment, **40%+ less** manual setup effort.
+- Centralized observability with Prometheus, Grafana and Loki across **100+ edge nodes/services**.
+
+**Associate Software Engineer — Netlink Software Pvt. Ltd.** *(Apr 2023 – Jan 2026)*
+- Made the AskMe Engine **50% faster** through backend optimizations, GenAI-assisted tagging and Highcharts visualizations.
+- Implemented Qdrant vector search with text chunking and embeddings for semantic retrieval, plus prompt engineering to improve answer quality.
+- Built and deployed **Lumenore-MCP**, which extends Lumenore's AI analytics to LLMs and VLMs.
+- Built a Django financial scenario-planning tool that made budget analysis **15% more efficient**.
+
+**Digital Insight Intern — Netlink Software Pvt. Ltd.** *(Jan 2023 – Mar 2023)*
+- Worked with APIs, Apache Spark, Alexa Skills, and MySQL, Vertica and Greenplum, improving storage efficiency by 25%.
+
+---
+
+## Live Products
+
+| Product | Description | Stack | Link |
+|---|---|---|---|
+| **FixPoint Drive** | All-in-one vehicle services app for India: service-center booking, Drive AI assistant, RTO / FASTag / e-challan services, due-date reminders, document vault and emergency SOS. I built the Django backend, deployed on Oracle Cloud. | Django, Python, PostgreSQL, Redis, Oracle Cloud, Claude Code | [fixpoint.co.in](https://fixpoint.co.in) |
+| **JsonYaml-Formatter** | Browser-based developer tool that formats, validates, minifies, converts and diffs JSON and YAML. Runs fully client-side, so it's fast and your data stays in the browser. | JavaScript, Monaco Editor, Vite, Cloudflare | [jsymlformatter.com](https://jsymlformatter.com) |
+| **Ask Me (Lumenore GenAI)** | Conversational RAG and visualization engine with semantic retrieval and dynamic KPI charts. | LangChain, OpenAI API, Qdrant, Redis, Python 3.10 | [lumenore.com](https://www.lumenore.com) |
 
 ---
 
@@ -10,57 +42,50 @@ Live portfolio and open-source work by Sahil Singhai Jain — building GenAI sys
 
 | Repository | Description | Stack | Link |
 |---|---|---|---|
-| **lumenore-mcp** | MCP server extending Lumenore AI analytics to LLMs and VLMs via Model Context Protocol | Python, MCP Protocol, REST APIs | [github.com/sahilsnghai/lumenore-mcp](https://github.com/sahilsnghai/lumenore-mcp) |
-| **resume_parser** | Agentic AI resume parser using LangGraph and GPT-4 for structured data extraction | FastAPI, LangGraph, LangChain, Streamlit, OpenAI | [github.com/sahilsnghai/resume_parser](https://github.com/sahilsnghai/resume_parser) |
-| **standalone-rag** | End-to-end Retrieval-Augmented Generation pipeline with Qdrant vector embeddings and semantic search | Python, RAG, Embeddings, Vector DB, LLM APIs | [github.com/sahilsnghai/standalone-rag](https://github.com/sahilsnghai/standalone-rag) |
-| **ChartCraft** | FastAPI backend microservice paired with interactive Highcharts visualizations for data analytics | FastAPI, Pydantic, Python 3.10, Highcharts | [github.com/sahilsnghai/ChartCraft](https://github.com/sahilsnghai/ChartCraft) |
-| **MetaGo (golang)** | High-concurrency Go service built with Fasthttp, Goroutines, and Channels for scalable APIs | Golang 1.24, Fasthttp, gRPC, Channels | [github.com/sahilsnghai/golang](https://github.com/sahilsnghai/golang) |
-| **website-intelligence** | GenAI-powered web scraping and content extraction using LLMs and BeautifulSoup | Python, BeautifulSoup, Web Scraping, LLMs | [github.com/sahilsnghai/website-intelligence](https://github.com/sahilsnghai/website-intelligence) |
-| **DupSnap** | Image deduplication engine using perceptual hashing (pHash) and PIL for media management | Python, PIL / Pillow, Perceptual Hashing (pHash) | [github.com/sahilsnghai/DupSnap](https://github.com/sahilsnghai/DupSnap) |
-| **fastapi-tyre-classification** | Machine learning API endpoint for tyre quality classification using trained ML models | FastAPI, ML Models, Scikit-Learn, Python | [github.com/sahilsnghai/fastapi-tyre-classification](https://github.com/sahilsnghai/fastapi-tyre-classification) |
-| **Web-Scraping (Distributed Pipeline)** | Cloud-native distributed scraping pipeline using Cassandra (Astra DB), Celery, Redis, and Docker | FastAPI, Cassandra / Astra DB, Celery, Redis, Docker | [github.com/sahilsnghai/Web-Scraping](https://github.com/sahilsnghai/Web-Scraping) |
-| **Budget-and-finance** | Django-based financial scenario planning and forecasting application for budget analysis | Django, Python, MySQL, Bootstrap, HTML/CSS | [github.com/sahilsnghai/Budget-and-finance](https://github.com/sahilsnghai/Budget-and-finance) |
-| **Bondly** | Ethical social network platform with user profiles, messaging, and community features | Django, Python, HTML5 / CSS3, SQLite / PostgreSQL | [github.com/sahilsnghai/Bondly](https://github.com/sahilsnghai/Bondly) |
-| **Youtube-downloader** | Desktop GUI video downloader with Tkinter interface, multi-threading, and PyTube backend | Python, Tkinter, PyTube, Threading | [github.com/sahilsnghai/Youtube-downloader](https://github.com/sahilsnghai/Youtube-downloader) |
-| **NvChad-Config** | Custom Neovim IDE configuration using NvChad with LSP, Treesitter, and Lua customization | Lua, Neovim, NvChad, LSP, Treesitter | [github.com/sahilsnghai/NvChad-Config](https://github.com/sahilsnghai/NvChad-Config) |
+| **lumenore-mcp** | MCP server that gives LLMs and VLMs programmatic access to Lumenore analytics | Python, MCP, REST APIs | [Lumenore-Platform/lumenore-mcp](https://github.com/Lumenore-Platform/lumenore-mcp) |
+| **resume_parser** | Multi-agent pipeline that extracts structured data from PDF and DOCX resumes | FastAPI, LangGraph, LangChain, OpenAI GPT-4, Streamlit | [sahilsnghai/resume_parser](https://github.com/sahilsnghai/resume_parser) |
+| **standalone-rag** | Modular RAG app: document upload, chunking, embeddings and semantic Q&A | Python, Embeddings, Vector Search, LLM APIs | [sahilsnghai/standalone-rag](https://github.com/sahilsnghai/standalone-rag) |
+| **MetaGo (golang)** | Go microservice for metadata handling, serving 700+ req/s with 1 MB payloads | Go 1.24, fasthttp, Goroutines, Channels | [sahilsnghai/golang](https://github.com/sahilsnghai/golang) |
+| **ChartCraft** | FastAPI microservice that generates validated Highcharts configs with AI-assisted chart recommendations | FastAPI, Pydantic, Highcharts | [sahilsnghai/ChartCraft](https://github.com/sahilsnghai/ChartCraft) |
+| **website-intelligence** | Crawls URLs and produces LLM-generated summaries and key takeaways | Python, LLMs, BeautifulSoup, NLP | [sahilsnghai/website-intelligence](https://github.com/sahilsnghai/website-intelligence) |
+| **Web-Scraping** | Distributed scraping pipeline with Celery workers, Redis and Cassandra storage | FastAPI, Celery, Redis, Cassandra (Astra DB), Docker | [sahilsnghai/Web-Scraping](https://github.com/sahilsnghai/Web-Scraping) |
+| **fastapi-tyre-classification** | FastAPI service that classifies tyre quality and returns confidence scores | FastAPI, Scikit-Learn | [sahilsnghai/fastapi-tyre-classification](https://github.com/sahilsnghai/fastapi-tyre-classification) |
+| **Budget-and-finance** | Django tool for financial planning and scenario modeling | Django, Python, MySQL | [sahilsnghai/Budget-and-finance](https://github.com/sahilsnghai/Budget-and-finance) |
+| **DupSnap** | CLI tool that finds duplicate and similar images using perceptual hashing | Python, pHash, Pillow | [sahilsnghai/DupSnap](https://github.com/sahilsnghai/DupSnap) |
+| **Bondly** | Ad-free, privacy-focused social network web app | Python, Django, HTML5 / CSS3 | [sahilsnghai/Bondly](https://github.com/sahilsnghai/Bondly) |
+| **Youtube-downloader** | Multithreaded Windows GUI downloader for videos, audio and thumbnails | Python, Tkinter, PyTube | [sahilsnghai/Youtube-downloader](https://github.com/sahilsnghai/Youtube-downloader) |
+| **NvChad-Config** | My Neovim setup on NvChad, with LSP and Treesitter for Python, Go and TypeScript | Lua, Neovim, NvChad | [sahilsnghai/NvChad-Config](https://github.com/sahilsnghai/NvChad-Config) |
 
 ---
 
-## Projects & Tools Overview
+## Skills
 
-These repositories cover the full stack of modern backend engineering — from GenAI agents and vector search pipelines to high-performance Go services, distributed cloud scraping architectures, financial forecasting tools, and developer experience tooling (custom Neovim configurations). Each project demonstrates production-oriented patterns: structured APIs, concurrent processing, observability integration, and clean separation of concerns between data ingestion, processing, and presentation layers.
-
-- **Lumenore-MCP** — Extends Lumenore's AI analytics platform to LLMs via the Model Context Protocol, enabling external agents to query business intelligence data in real time.
-- **Ask Me (embedded in Lumenore GenAI)** — Enterprise-grade Retrieval-Augmented Generation engine combining LangChain, OpenAI APIs, Qdrant vector storage, and Redis caching for fast semantic retrieval.
-- **Resume Parser** — Agentic AI pipeline that reads PDF resumes, chunks content, generates embeddings, and outputs structured JSON profiles using LangGraph orchestration.
-- **Standalone RAG** — Independent RAG stack demonstrating chunking, embedding generation, Qdrant storage, and LLM-augmented answer synthesis.
-- **ChartCraft** — Microservice delivering analytics visualizations through FastAPI and Highcharts, emphasizing clean API contracts with Pydantic validation.
-- **MetaGo** — Go-based concurrency experiment demonstrating goroutine scheduling, channel-based communication, and Fasthttp performance characteristics.
-- **JsonYaml-Formatter** — Client-side formatting and validation toolkit for JSON and YAML, deployed via Vite and hosted on Cloudflare.
-- **Website Intelligence** — Automated extraction pipeline that combines BeautifulSoup scraping with LLM-based content summarization and classification.
-- **DupSnap** — Perceptual image comparison engine using pHash to detect near-duplicates across large media collections.
-- **Tyre Quality Classifier** — Production-style ML endpoint wrapping a Scikit-Learn classifier in a FastAPI service for real-time quality predictions.
-- **Distributed Data Pipeline** — Multi-node scraping architecture using Cassandra as the storage layer, Celery for task queuing, Redis for caching, and Docker for deployment consistency.
-- **Budgeting & Forecast** — Django application for multi-scenario budget modeling, reporting, and forecasting with MySQL persistence and Bootstrap UI.
-- **Bondly** — Social networking platform emphasizing ethical design principles, with features for user connections, posts, and moderated interactions.
-- **YouTube Downloader** — End-user desktop application with a Tkinter interface for video download management, threading for concurrent downloads, and PyTube integration.
-- **NvChad IDE Config** — Personalized Neovim development environment configured for Python, Go, and TypeScript development with modern LSP and syntax tree support.
+- **GenAI & Agentic AI:** RAG, LangChain, LangGraph, Model Context Protocol (MCP), OpenAI APIs, Claude Code, Qdrant, embeddings, prompt engineering, semantic search
+- **Languages:** Python 3.10+, Golang 1.24, JavaScript / TypeScript, SQL, Bash
+- **Backend:** FastAPI, Django, Flask, Falcon, Go Gin & GORM, fasthttp, gRPC, REST, microservices, Celery
+- **Databases:** PostgreSQL, Redis, Qdrant, MySQL, SQLite, Cassandra / Astra DB, Greenplum
+- **Cloud & DevOps:** AWS, Oracle Cloud, Docker, Kubernetes, Prometheus, Grafana, Loki, Terraform (basic), Linux (Ubuntu), Git
+- **IIoT:** OPC-UA, Unified Namespace (UNS), PLC-to-cloud pipelines, edge gateways
+- **Tools:** Neovim (NvChad), VS Code, Postman, DBeaver
 
 ---
 
-## Technical Focus Areas
+## Certifications
 
-- **Generative AI & Agents:** RAG pipelines, Agentic AI architectures, MCP integrations, LangChain / LangGraph orchestration, OpenAI GPT-4 APIs, Qdrant vector search, embedding generation, prompt engineering, semantic retrieval.
-- **Backend Engineering:** FastAPI, Flask, Django, Falcon, Go Gin, GORM, Fasthttp, gRPC (Go), RESTful and GraphQL-style APIs, high-concurrency architectures with goroutines and channels.
-- **Cloud & Observability:** AWS Cloud infrastructure, Docker containerization, Kubernetes orchestration (CLI-level), Prometheus metrics, Grafana dashboards, Loki log aggregation, Terraform basics, Linux (Ubuntu) administration.
-- **Data & Storage:** PostgreSQL, Redis (caching and message queuing), Qdrant Vector DB, MySQL, SQLite, Cassandra / Astra DB, Greenplum, Snowflake analytics integration.
-- **IIoT & Distributed Systems:** OPC-UA protocol integration, Unified Namespace (UNS) architecture, PLC-to-Edge-to-Cloud pipelines, edge gateway cluster management, message queue-based provisioning.
-- **Languages:** Python 3.10+, Golang 1.24, TypeScript, SQL, Bash / Shell scripting, Lua (Neovim configuration).
+- Oracle Cloud Infrastructure 2024 Generative AI Professional
+- Oracle Cloud Infrastructure Foundations 2022 Associate
+- Cisco CCNAv7: Introduction to Networks
+- HackerRank Python & SQL Gold Badges (5★)
+- Applied Machine Learning & Plotting in Python (University of Michigan / Coursera)
+
+**Education:** B.Tech in Information Technology, Oriental Institute of Science and Technology, Bhopal (2019–2023), CGPA 7.88
 
 ---
 
 ## Connect
 
-LinkedIn: [linkedin.com/in/sahilsinghai](https://www.linkedin.com/in/sahilsinghai/)
-
-Live portfolio: [sahilsinghai.com](https://sahilsinghai.com)
+- Portfolio: [sahilsinghai.com](https://sahilsinghai.com)
+- LinkedIn: [linkedin.com/in/sahilsinghai](https://www.linkedin.com/in/sahilsinghai/)
+- HackerRank: [hackerrank.com/sahilsinghai5672](https://www.hackerrank.com/sahilsinghai5672)
+- Stack Overflow: [stackoverflow.com/users/19374972/sahil-singhai](https://stackoverflow.com/users/19374972/sahil-singhai)
+- Resume: [View on FlowCV](https://flowcv.com/resume/3kcgpsdtt1)
