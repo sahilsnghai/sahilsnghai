@@ -34,7 +34,6 @@ I'm a backend engineer with 3.5 years of experience in Python and Go, building p
 |---|---|---|---|
 | **FixPoint Drive** | All-in-one vehicle services app for India: service-center booking, Drive AI assistant, RTO / FASTag / e-challan services, due-date reminders, document vault and emergency SOS. I built the Django backend, deployed on Oracle Cloud. | Django, Python, PostgreSQL, Redis, Oracle Cloud, Claude Code | [fixpoint.co.in](https://fixpoint.co.in) |
 | **JsonYaml-Formatter** | Browser-based developer tool that formats, validates, minifies, converts and diffs JSON and YAML. Runs fully client-side, so it's fast and your data stays in the browser. | JavaScript, Monaco Editor, Vite, Cloudflare | [jsymlformatter.com](https://jsymlformatter.com) |
-| **Ask Me (Lumenore GenAI)** | Conversational RAG and visualization engine with semantic retrieval and dynamic KPI charts. | LangChain, OpenAI API, Qdrant, Redis, Python 3.10 | [lumenore.com](https://www.lumenore.com) |
 
 ---
 
